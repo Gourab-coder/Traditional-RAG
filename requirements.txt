@@ -3,4 +3,9 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
-ipykernel ### for jupiter notebook
+ipykernel ### for jupiter 
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv

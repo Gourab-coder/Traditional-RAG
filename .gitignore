@@ -9,4 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# Environments
 .env
+
+# Vector Store
+data/vector_store/
+faiss_store/
